@@ -37,7 +37,7 @@ class Circle(Shape):
 def main():
     shapes = [Circle(3), Circle(5)]
 
-    # List comprehension and lambda function
+    # List comprehension and lambda fuction
     areas = list(map(lambda x: x.area(), shapes))
 
     for i, area in enumerate(areas):

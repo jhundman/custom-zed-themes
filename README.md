@@ -2,7 +2,7 @@
 
 Forked from [github-zed-theme](https://github.com/PyaeSoneAungRgn/github-zed-theme).
 
-![Light Theme](./art/light.png)
+![Gleam Dark Theme](./imgs/gleam.png)
 
 ![Dark Theme](./art/dark.png)
 
