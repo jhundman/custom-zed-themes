@@ -4,19 +4,7 @@ Forked from [github-zed-theme](https://github.com/PyaeSoneAungRgn/github-zed-the
 
 ![Gleam Dark Theme](./imgs/gleam.png)
 
-![Dark Theme](./art/dark.png)
-
-## Installation
-
-1. Open `Command Palette`
-2. Select `zed: extensions`
-3. Search `GitHub Theme`
-
-## Activate Theme
-
-1. Open `Command Palette`
-2. Select `theme selector: toggle`
-3. Search `GitHub Light` or `GitHub Dark`
+![Magikal Nights](./art/magikal.png)
 
 ## Contributing
 
