@@ -4,7 +4,7 @@ Forked from [github-zed-theme](https://github.com/PyaeSoneAungRgn/github-zed-the
 
 ![Gleam Dark Theme](./imgs/gleam.png)
 
-![Magikal Nights](./art/magikal.png)
+![Magikal Nights](./imgs/magikal.png)
 
 ## Contributing
 
