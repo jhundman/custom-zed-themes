@@ -97,7 +97,7 @@
         "conflict": "#dec184ff",
         "conflict.background": "#41321dff",
         "conflict.border": "#5d4c2fff",
-        "created": "#FFAAF2", // Github stuff
+        "created": "#FFAAF2",
         "created.background": "#FFAAF2",
         "created.border": "#38482fff",
         "deleted": "#ea4a5aff",
@@ -285,7 +285,6 @@
             "font_weight": null
           },
           "property": {
-            // json key
             "color": "#79b8ffff",
             "font_style": null,
             "font_weight": null
@@ -366,7 +365,6 @@
             "font_weight": null
           },
           "variable.special": {
-            // modules
             "color": "#ffd596",
             "font_style": null,
             "font_weight": null
