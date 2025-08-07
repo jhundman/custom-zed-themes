@@ -12,10 +12,12 @@ This script demonstrates various Python syntax elements:
 # Import statement
 import math
 
+
 # Function definition with a docstring
 def calculate_area(radius):
     """Calculate the area of a circle given its radius."""
-    return math.pi * radius ** 2
+    return math.pi * radius**2
+
 
 # Class definitions and inheritance
 class Shape:
@@ -25,6 +27,7 @@ class Shape:
     def area(self):
         raise NotImplementedError("Subclass must implement abstract method")
 
+
 class Circle(Shape):
     def __init__(self, radius):
         super().__init__("Circle")
@@ -32,6 +35,7 @@ class Circle(Shape):
 
     def area(self):
         return calculate_area(self.radius)
+
 
 # Main function showcasing a conditional, loop, and list comprehension
 def main():
@@ -44,6 +48,7 @@ def main():
 
     for i, area in enumerate(areas):
         print(f"Area of {shapes[i].name} with radius {shapes[i].radius}: {area:.2f}")
+
 
 # Inline comment about the entry point of the script
 if __name__ == "__main__":
